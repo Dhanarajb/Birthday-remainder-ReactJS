@@ -1,3 +1,3 @@
 # Birthday-remainder-ReactJS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-srtksn)
+https://login-1670c.firebaseapp.com/?229442
